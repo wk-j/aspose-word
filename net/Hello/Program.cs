@@ -16,7 +16,7 @@ namespace Hello {
 
         static void Main(string[] args) {
 
-            SetFont();
+            //SetFont();
 
 
             var dataDir = "resource";

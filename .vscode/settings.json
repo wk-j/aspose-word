@@ -7,5 +7,6 @@
         "**/bin": true,
         "**/obj": true
     },
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "FSharp.fsacRuntime": "netcore"
 }
